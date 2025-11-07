@@ -1,0 +1,65 @@
+frontend-user interface
+back end - user experience
+full stack-both front and backend
+
+MERN STACK
+1)MongoDB
+2)Express.js
+3)React.js
+4)Node.js
+
+->Express.js-intermediator
+->Node.js- server connectivity
+->React.js-library-javacript+html combination
+.jsx? .jsx is a file extension for JavaScript XML (JSX), which is a syntax extension to JavaScript. JSX is used to write HTML-like markup in JavaScript files. It's commonly used with the React framework. 
+Extensible Markup Language (XML) is a format for storing, sharing, and exchanging data
+Markup language is a system of codes and tags used to define the structure and presentation of a document. It's used to structure and organize information in documents and web pages. 
+markup language-using tags to define structure.
+
+->javascript-server-side programming language,object oriented
+static website-only view,cant change(eg. cant place order)
+dynamic website-user experiences
+
+->HTML-Hyper means web which is connected one page to another page.
+text refer content which we would like to put on the web page
+markup refers tag (tag is something predefined ,In HTML, a tag is a keyword that defines how a web browser formats and displays a web page)
+language-communication tool
+
+->semantic elements-header,section,footer,aside,main-Semantic elements in HTML are HTML tags that have a clear meaning and structure.-browser can understand this tag
+
+refer again
+meta tag-viewport takes size automatically, width,
+UTF-8->accepts all language
+body- displays in webpage
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+</body>
+</html>
+
+->css
+style-property:value
+way of using css:
+1)inline css-tag itself
+2)internal css-inside the header part
+3)external css-outside the html document
+
+selector:
+1)id-#
+2)class- .
+3)group-different types of tag name's
+4)universal-*
+5)element-tagname
+
+{}-block of statement
+
+href-hyper reference
+
+inline elements-takes particular content size(content space)
+block level elements-takes full width.
+
